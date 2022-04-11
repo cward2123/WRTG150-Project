@@ -1,0 +1,12 @@
+.homebg {
+    background-image: linear-gradient(rgba(156, 144, 139, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/exchange.no.8.jpeg") /**EXCHANGE NO. 8**/;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.cropped {
+    width: 1400px;
+    height: 600px;
+    overflow: hidden;
+}
